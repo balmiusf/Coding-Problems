@@ -3,4 +3,6 @@
 
 - All problems are solved in Golang.
 
+- All problems are fully functional and tested.
+
 Coding Problems from: https://www.dailycodingproblem.com/
