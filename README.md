@@ -1,1 +1,1 @@
-Daily Coding Problems
+Coding Problems
