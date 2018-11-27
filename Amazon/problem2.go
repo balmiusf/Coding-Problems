@@ -15,7 +15,7 @@ import (
 
 func problemo(s string, k int) string {
 
-	if len(s) == 0 || k <= 0 || len(s) < k {
+	if len(s) == 0 || k <= 0 {
 
 		return ""
 	}
